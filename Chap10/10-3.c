@@ -20,7 +20,7 @@
 { 
   int a[10];
   int i;
-  printf("请输入10个整数\n");
+  printf("脟毛脢盲脠毛10赂枚脮没脢媒\n");
   for(i=0;i<=9;i++)scanf("%d",&a[i]);
   for(i=0;i<=9;i++)*p[i]=a[i];
   return(0);     
